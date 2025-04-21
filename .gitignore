@@ -1,0 +1,4 @@
+.qodo
+PGS_env/
+data/processed/prep_household_power_consumption.csv
+data/raw/
